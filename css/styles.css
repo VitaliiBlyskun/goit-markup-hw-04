@@ -550,6 +550,7 @@ fill: var(--description-color);
 
     .footer-box {
       display: flex;
+      align-items: baseline;
     }
 
     .block {
